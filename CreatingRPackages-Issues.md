@@ -5,7 +5,7 @@
 ## Useful resources for learning how to create packages in R
 
 * David Diez's [tutorial][DD1] and [slides][DD2].
-* Hadley Wickham's [slides][HW1] and [avanced R programming web site][HW2].
+* Hadley Wickham's [slides][HW1] and [R package programming web site][HW2].
 * Jeff Allen's [slides][JA1].
 * William Revelle's [tutorial][WR1].
 * Friedrich Leisch's [official tutorial][FL1].
@@ -67,11 +67,11 @@ Found solutions [here][7].
 * How to use package [devtools][].
 
     Useful resources:
-        - [DevTools in RStudio][http://www.rstudio.com/products/rpackages/devtools/]  
+        - [DevTools in RStudio][devtools-rs]
 
 
 [devtools]: http://cran.r-project.org/web/packages/devtools/devtools.pdf
-
+[devtools-rs]: http://www.rstudio.com/products/rpackages/devtools/
 * How to use package [testthat][]
 
     Useful resources:
