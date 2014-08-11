@@ -10,6 +10,7 @@
 * William Revelle's [tutorial][WR1].
 * Friedrich Leisch's [official tutorial][FL1].
 * Heng Weng's [slides][HWeng1]
+* Using RStudio: [youtube video][yv-01], [online documentation][RS1]
 
 [DD1]: http://rfunction.com/file/BuildingRPackagesPaper.pdf
 [DD2]: http://www.hsph.harvard.edu/statinformatics/soft/files/buildingrpackages.pdf
@@ -19,6 +20,8 @@
 [WR1]: http://personality-project.org/r/makingpackages.html
 [FL1]: http://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf
 [HWeng1]: http://www.stt.msu.edu/~cui/Groupmeeting/R_package_tutorial.pdf
+[yv-01]: http://www.youtube.com/watch?v=9PyQlbAEujY
+[RS1]: https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio
 
 # Useful resources for learning how to document packages in R using [Roxygen][]
 
